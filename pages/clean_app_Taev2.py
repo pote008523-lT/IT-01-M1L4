@@ -20,7 +20,7 @@ st.markdown("""
     }
     .st-emotion-cache-zt5ig { /* Streamlit header */
         background-color: #264653; /* Dark teal */
-        color: white;
+        color: Dark;
         padding: 1rem;
         border-radius: 10px;
         margin-bottom: 2rem;
