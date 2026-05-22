@@ -17,3 +17,5 @@ elif st.button("✨การทำความสะอาดข้อมูล"
     st.switch_page("pages/clean_app_Taev2.py")
 elif st.button("📂เครื่องมือทำความสะอาดข้อมูลลูกค้า"):
     st.switch_page("pages/clean_customers.py")
+elif st.button("📊 แอปพลิเคชันวิเคราะห์ข้อมูลคลังสินค้าเบื้องต้น"):
+    st.switch_Page("pages/energy_inventory.py"
