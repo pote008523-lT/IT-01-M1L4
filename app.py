@@ -9,7 +9,7 @@ st.write("Kritsana")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
 
 if st.button("💰 ระบบคำนวณส่วนลดตามยอดซื้อ"):
-    st.switch_page("pages/app1_discount_calc.py"):
+    st.switch_page("pages/app1_discount_calc.py")
 elif st.button("การทำความสะอาดข้อมูล"):
     st.switch_page("pages/clean_app_Taev2.py"):
 elif st.button("📂 Customer Data Cleaner"):
