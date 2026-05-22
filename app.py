@@ -8,6 +8,9 @@ st.info("7 Day Intensive Hands-on Workshop")
 st.write("Kritsana")
 st.write("##### Day 1: การจัดการข้อมูลพื้นฐานและโครงสร้างข้อมูลด้วย Python")
 
+if st.button("🏠 กลับหน้าหลัก "):
+   st.switch_page("app.py")
+
 if st.button("💰 ระบบคำนวณส่วนลดตามยอดซื้อ"):
     st.switch_page("pages/app1_discount_calc.py")
 elif st.button("การทำความสะอาดข้อมูล"):
