@@ -19,6 +19,6 @@ elif st.button("📂เครื่องมือทำความสะอา
     st.switch_page("pages/clean_customers.py")
 elif st.button("📊 แอปพลิเคชันวิเคราะห์ข้อมูลคลังสินค้าเบื้องต้น"):
     st.switch_page("pages/energy_inventory.py")
-elif st.button("📊 แอปพลิเคชันตั้งค่าการแปลงข้อมูล"):
+elif st.button("🔄 แอปพลิเคชันตั้งค่าการแปลงข้อมูล"):
     st.switch_page("pages/transform_app.py")
 
