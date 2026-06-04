@@ -25,4 +25,6 @@ elif st.button("📈 แอปพลิเคชัน EDA"):
     st.switch_page("pages/EDA_app.py")
 elif st.button("🔮 แอปพลิเคชันการพยากรณ์"):
     st.switch_page("pages/sale_predict.py")
+elif st.button("🚚 แอปพลิเคชันการพยากรณ์รถบรรทุก"):
+    st.switch_page("pages/truck_predict.py")
       
